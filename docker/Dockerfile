@@ -2,7 +2,7 @@ ARG ARCH
 ARG VERSION
 ARG VARIANT
 
-FROM scratch:${VERSION}
+FROM mnestix/mnestix-browser:${VERSION}
 
 ARG ARCH
 ARG VERSION
