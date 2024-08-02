@@ -6,7 +6,7 @@
     "revision": "0",
     "image": "flecs.azurecr.io/com.xitaso.mnestix-browser",
     "multiInstance": false,
-    "editor": ":3000",
+    "editor": ":3001",
     "args": [],
     "capabilities": [],
     "conffiles": [],
@@ -28,7 +28,7 @@
         "THEME_LOGO_URL= "
     ],
     "ports": [
-        "3000:3000"
+        "3001:3000"
     ],
     "volumes": [],
     "labels": []
