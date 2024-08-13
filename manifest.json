@@ -19,7 +19,7 @@
         "AAS_LIST_FEATURE_FLAG=true",
         "COMPARISON_FEATURE_FLAG=true",
         "AUTHENTICATION_FEATURE_FLAG=false",
-        "LOCK_TIMESERIES_PERIOD_FEATURE_FLAG=true",
+        "LOCK_TIMESERIES_PERIOD_FEATURE_FLAG=true"
     ],
     "ports": [
         "3001:3000"
